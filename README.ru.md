@@ -59,7 +59,7 @@
 ### Благодарности
 - [Kerismaker](https://www.flaticon.com/authors/kerismaker) за прекрасный [icon](https://www.flaticon.com/free-icon/template_6863985)
 - [Rosemoe](https://github.com/Rosemoe) за [sora-editor](https://github.com/Rosemoe/sora-editor)
-- [Akash Yadav](https://github.com/itsaky) for the awesome [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
+- [Akash Yadav](https://github.com/itsaky) за потрясающий  [AndroidIDE](https://github.com/AndroidIDEOfficial/AndroidIDE)
 
 ### Лицензии
 ```
